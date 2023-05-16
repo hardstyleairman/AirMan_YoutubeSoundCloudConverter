@@ -1,5 +1,5 @@
 # Airman YouTube SoundCloud下載器
-只需要輸入YouTube或SoundCloud連結，就可以輕鬆地下載影片或音樂，還可以直接將影片轉換成mp3格式！
+這是C# window form程式，只需要輸入YouTube或SoundCloud連結，就可以輕鬆地下載影片或音樂，還可以直接將影片轉換成mp3格式！
 
 **如何使用 ** :desktop_computer:
 1. 貼上YouTube或SoundCloud連結
