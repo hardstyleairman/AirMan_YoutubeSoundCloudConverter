@@ -12,7 +12,11 @@
 
 :warning: **注意事項** :warning:
 *請勿侵犯著作權，僅限個人使用。
-本程式僅提供下載和轉換功能，不負責任何版權問題。*
+本程式僅提供下載和轉換功能，不負責任何版權問題。
+本程式只提供參考，如程式出現了bug，我才不負責www。
+這個程式是在本機運行的，但只支援 Nvidia 顯示卡。
+MP3 不是最高品質的音訊格式。
+*
 
 **Library**
 ffmpeg
@@ -36,7 +40,10 @@ This is a C# Windows Form program that can download youtube and soundcloud music
 
 :warning: **Notes** :warning:
 *Do not infringe on copyright, for personal use only.
-This program only provides download and conversion functions and is not responsible for any copyright issues.*
+This program only provides download and conversion functions and is not responsible for any copyright issues.
+The program runs locally, but only supports Nvidia graphics cards.
+MP3 is not the highest quality format.
+*
 
 **Library**
 [ffmpeg](https://www.ffmpeg.org/ "ffmpeg")
