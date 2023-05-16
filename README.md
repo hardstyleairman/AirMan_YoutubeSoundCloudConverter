@@ -1,11 +1,11 @@
 # Airman YouTube SoundCloud下載器
 只需要輸入YouTube或SoundCloud連結，就可以輕鬆地下載影片或音樂，還可以直接將影片轉換成mp3格式！
 
-**如何使用 :tw-1f4bb:**
+**如何使用 ** :desktop_computer:
 1. 貼上YouTube或SoundCloud連結
 2. 選擇想要的檔案格式, 按下下載按鈕並等待下載完成。
 
-**支援的檔案格式** :tw-1f4be:
+**支援的檔案格式** :floppy_disk:
 MP4
 WEBM
 MP3
