@@ -6,9 +6,9 @@
 2. 選擇想要的檔案格式, 按下下載按鈕並等待下載完成。
 
 **支援的檔案格式** :floppy_disk:
-MP4
-WEBM
-MP3
+- MP4
+- WEBM
+- MP3
 
 :warning: **注意事項** :warning:
 *請勿侵犯著作權，僅限個人使用。
@@ -30,9 +30,9 @@ This is a C# Windows Form program that can download youtube and soundcloud music
 2. Choose the format that you want. Click the download button and wait for the download to complete.
 
 **Supported File Formats** :floppy_disk:
-MP4
-WEBM
-MP3
+- MP4
+- WEBM
+- MP3
 
 :warning: **Notes** :warning:
 *Do not infringe on copyright, for personal use only.
